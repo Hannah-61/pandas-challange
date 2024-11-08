@@ -1,4 +1,5 @@
 PyCitySchools Analysis
+
 Project Overview
 This project analyzes the performance of schools within a city’s school district. The goal is to help district leaders make informed decisions on school budgets and priorities by examining various factors that impact student success, such as school type, size, and per-student spending. The analysis was conducted using Python and the Pandas library.
 
