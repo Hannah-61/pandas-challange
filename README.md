@@ -1,4 +1,4 @@
-PyCitySchools Analysis
+## PyCitySchools Analysis
 
 Project Overview
 This project analyzes the performance of schools within a city’s school district. The goal is to help district leaders make informed decisions on school budgets and priorities by examining various factors that impact student success, such as school type, size, and per-student spending. The analysis was conducted using Python and the Pandas library.
@@ -6,7 +6,7 @@ This project analyzes the performance of schools within a city’s school distri
 Summary of Analysis
 This analysis evaluates school performance across math and reading scores, exploring the effects of school type, size, and per-student spending. By understanding these relationships, district leaders can better allocate resources to enhance academic outcomes.
 
-Key Findings
+## Key Findings
 1. Charter vs. District Schools
 Charter schools consistently outperformed District schools.
 Charter schools had a higher overall passing rate (90.43%) and average math and reading scores (83.47 and 83.90, respectively) compared to District schools, where the passing rate was 53.67% with lower average scores.
@@ -22,7 +22,7 @@ Schools spending less than $585 per student had the highest overall passing rate
 Schools in the highest spending bracket ($645-680) showed the lowest passing rate at 53.53%.
 This trend implies that resource allocation efficiency, rather than increased spending alone, plays a critical role in academic performance.
 
-Conclusion
+## Conclusion
 These findings suggest that promoting smaller school sizes, studying Charter school practices, and optimizing resource use could enhance academic outcomes across the district.
 
 Files
